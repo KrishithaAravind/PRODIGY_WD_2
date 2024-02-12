@@ -5,5 +5,6 @@ I have built a stopwatch web application, where the user can use HTML, CSS, and 
 
 
 
+![stopwatch-](https://github.com/KrishithaAravind/PRODIGY_WD_2/assets/126892114/679678e6-ee76-4c1e-bf49-9436509186a6)
 
 
